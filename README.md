@@ -20,6 +20,7 @@ Screenshots of the app
 <img width="475" height="457" alt="image" src="https://github.com/user-attachments/assets/c2548b48-a7cf-4a06-bc3b-fc9cfbb641b5" />
 <img width="241" height="452" alt="image" src="https://github.com/user-attachments/assets/08a09d09-2812-486f-b4d2-bdd1e10d2935" />
 <img width="544" height="538" alt="image" src="https://github.com/user-attachments/assets/d163aef0-567e-4406-b8f8-cb6a53b5b954" />
+
 How to run it
 https://github.com/edenhon7/FamousBRestaurant
 Open the project in Android Studio.
