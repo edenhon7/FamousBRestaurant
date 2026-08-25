@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467969192951",
+    "project_id": "famousbrestaurant-e2229",
+    "storage_bucket": "famousbrestaurant-e2229.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467969192951:android:e5b47fcf31a16f7603f4f2",
+        "android_client_info": {
+          "package_name": "com.example.famousbrestaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_WxLhWkceBscgn-x0Ykmg6c2K64q7Ubk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
